@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/skatepark_clientt/static/css/main.17b2c018.css",
+    "main.js": "/skatepark_clientt/static/js/main.4614c678.js",
+    "index.html": "/skatepark_clientt/index.html",
+    "main.17b2c018.css.map": "/skatepark_clientt/static/css/main.17b2c018.css.map",
+    "main.4614c678.js.map": "/skatepark_clientt/static/js/main.4614c678.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.17b2c018.css",
+    "static/js/main.4614c678.js"
+  ]
+}
